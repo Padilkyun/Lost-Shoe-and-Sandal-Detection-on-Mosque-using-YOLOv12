@@ -1,0 +1,1 @@
+# Lost-Shoe-and-Sandal-Detection-on-Mosque-using-YOLOv12
