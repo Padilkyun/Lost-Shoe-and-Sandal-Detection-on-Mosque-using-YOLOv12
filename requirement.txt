@@ -3,4 +3,4 @@ opencv-python
 torch
 ultralytics
 numpy
-cv2
+opencv-contrib-python
